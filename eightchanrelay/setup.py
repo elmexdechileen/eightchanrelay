@@ -10,4 +10,5 @@ setup(
   download_url = 'https://github.com/elmexdechileen/eightchanrelay/archive/0.1.tar.gz', # I'll explain this in a second
   keywords = ['relay', 'home automation', 'hass'], # arbitrary keywords
   classifiers = [],
+    
 )
