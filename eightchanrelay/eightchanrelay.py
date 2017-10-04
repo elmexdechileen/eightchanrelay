@@ -1,5 +1,4 @@
 import socket
-
 class EightChanRelay():
     def __init__(self, hostname, port, NumberOfRelays):
         ''''init '''
