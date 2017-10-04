@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'eightchanrelay',
-  packages = ['eightchanrelay'], # this must be the same as the name above
+  name = 'lanrelay',
+  packages = ['lanrelay'], # this must be the same as the name above
   version = '0.2',
   description = 'Eight channel lan relay control',
   author = 'Max van Rooijen',
